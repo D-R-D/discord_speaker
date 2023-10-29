@@ -1,4 +1,4 @@
-﻿namespace discord_template
+﻿namespace discord_speaker
 {
     public static class Tools
     {

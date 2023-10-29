@@ -3,7 +3,7 @@ using Discord.Commands;
 using Discord.WebSocket;
 using System.Configuration;
 
-namespace discord_template
+namespace discord_speaker
 {
     class Program
     {

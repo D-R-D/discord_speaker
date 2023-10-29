@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace discord_template
+namespace discord_speaker
 {
     internal class CommandSender
     {
